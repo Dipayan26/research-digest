@@ -11,3 +11,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-05-03 | [STORM: A Multimodal Foundation Model of Spatial Transcriptomics and Histology](daily_digests/research_digest_2026-05-03.md) | Genomics · Protein LM · Flow Matching · SSM · Architecture · General ML · Clinical ML |
 | 2026-05-14 | [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](daily_digests/research_digest_2026-05-14.md) | Diffusion · Flow Matching · Protein LM · Genomics · MoE · Architecture · General ML · Clinical ML |
 | 2026-05-15 | [ENSEMBITS: An Alphabet of Protein Conformational Ensembles](daily_digests/research_digest_2026-05-15.md) | Protein LM · Diffusion · Flow Matching · Genomics · Architecture · MoE · General ML · Clinical ML |
+| 2026-05-16 | [RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction](daily_digests/research_digest_2026-05-16.md) | Flow Matching · Genomics · Protein LM · Architecture · MoE · General ML |
