@@ -13,3 +13,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-05-15 | [ENSEMBITS: An Alphabet of Protein Conformational Ensembles](daily_digests/research_digest_2026-05-15.md) | Protein LM · Diffusion · Flow Matching · Genomics · Architecture · MoE · General ML · Clinical ML |
 | 2026-05-16 | [RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction](daily_digests/research_digest_2026-05-16.md) | Flow Matching · Genomics · Protein LM · Architecture · MoE · General ML |
 | 2026-05-17 | [A-CODE: Fully Atomic Protein Co-Design with Unified Multimodal Diffusion](daily_digests/research_digest_2026-05-17.md) | Diffusion · Protein LM · Architecture · Genomics · General ML · Clinical ML |
+| 2026-05-18 | [DPLM-Evo: Towards A Generative Protein Evolution Machine](daily_digests/research_digest_2026-05-18.md) | Protein LM · Diffusion · Genomics · General ML |
