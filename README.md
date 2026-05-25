@@ -18,3 +18,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-05-22 | [Conditional Generation of Antibody Sequences with Classifier-Guided Germline-Absorbing Discrete Diffusion](daily_digests/research_digest_2026-05-22.md) | Diffusion · Protein LM · Flow Matching · Genomics · Architecture · MoE · General ML · Clinical ML |
 | 2026-05-23 | [Atom-level Protein Representation Learning Improves Protein Structure Prediction](daily_digests/research_digest_2026-05-23.md) | Protein LM · Diffusion · Genomics · General ML · Clinical ML |
 | 2026-05-24 | [DPLM-Evo: Towards A Generative Protein Evolution Machine](daily_digests/research_digest_2026-05-24.md) | Diffusion · Protein LM · Architecture · General ML · Clinical ML · Genomics |
+| 2026-05-25 | [EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation](daily_digests/research_digest_2026-05-25.md) | Protein LM · Flow Matching · Genomics · General ML · Clinical ML |
