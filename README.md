@@ -25,3 +25,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-05-29 | [PlasmidLM: A Promptable DNA Language Model via Verifiable-Reward Post-Training](daily_digests/research_digest_2026-05-29.md) | Genomics · Flow Matching · Diffusion · Protein LM · Architecture · General ML · Clinical ML |
 | 2026-05-30 | [Lingshu-Cell: A Generative Cellular World Model for Transcriptome Modeling toward Virtual Cells](daily_digests/research_digest_2026-05-30.md) | Diffusion · Genomics · Flow Matching · Protein LM · Architecture · General ML · Clinical ML |
 | 2026-05-31 | [ProtLiD²: Ligand-Conditioned Discrete Diffusion for Protein Sequence–Structure Co-Design](daily_digests/research_digest_2026-05-31.md) | Diffusion · Protein LM · Genomics · Architecture · General ML · Clinical ML |
+| 2026-06-01 | [ProteinZero: Self-Improving Protein Generation via Online Reinforcement Learning](daily_digests/research_digest_2026-06-01.md) | General ML · Protein LM · Diffusion · Genomics · Clinical ML |
