@@ -28,3 +28,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-01 | [ProteinZero: Self-Improving Protein Generation via Online Reinforcement Learning](daily_digests/research_digest_2026-06-01.md) | General ML · Protein LM · Diffusion · Genomics · Clinical ML |
 | 2026-06-02 | [Cross-Chirality Generalization by Axial Vectors for Hetero-Chiral Protein-Peptide Interaction Design](daily_digests/research_digest_2026-06-02.md) | Protein LM · Diffusion · Flow Matching · Architecture · MoE · Genomics · General ML · Clinical ML |
 | 2026-06-03 | [AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design](daily_digests/research_digest_2026-06-03.md) | Protein LM · Diffusion · Flow Matching · Genomics · General ML · Clinical ML |
+| 2026-06-04 | [MIMIC: A Generative Multimodal Foundation Model for Biomolecules](daily_digests/research_digest_2026-06-04.md) | Architecture · Flow Matching · Protein LM · Genomics · General ML · Clinical ML |
