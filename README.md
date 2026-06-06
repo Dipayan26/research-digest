@@ -30,3 +30,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-03 | [AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design](daily_digests/research_digest_2026-06-03.md) | Protein LM · Diffusion · Flow Matching · Genomics · General ML · Clinical ML |
 | 2026-06-04 | [MIMIC: A Generative Multimodal Foundation Model for Biomolecules](daily_digests/research_digest_2026-06-04.md) | Architecture · Flow Matching · Protein LM · Genomics · General ML · Clinical ML |
 | 2026-06-05 | [EpiFormer: Learning Antigen-Antibody Interactions for Epitope Prediction via Geometric Deep Learning](daily_digests/research_digest_2026-06-05.md) | Protein LM · Flow Matching · General ML · Clinical ML · Architecture |
+| 2026-06-06 | [Language Modeling Materializes a World Model of Protein Biology](daily_digests/research_digest_2026-06-06.md) | Protein LM · Diffusion · Genomics · MoE · General ML · Clinical ML |
