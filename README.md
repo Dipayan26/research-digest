@@ -31,3 +31,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-04 | [MIMIC: A Generative Multimodal Foundation Model for Biomolecules](daily_digests/research_digest_2026-06-04.md) | Architecture · Flow Matching · Protein LM · Genomics · General ML · Clinical ML |
 | 2026-06-05 | [EpiFormer: Learning Antigen-Antibody Interactions for Epitope Prediction via Geometric Deep Learning](daily_digests/research_digest_2026-06-05.md) | Protein LM · Flow Matching · General ML · Clinical ML · Architecture |
 | 2026-06-07 | [Language Modeling Materializes a World Model of Protein Biology](daily_digests/research_digest_2026-06-07.md) | Protein LM · Genomics · Clinical ML · General ML |
+| 2026-06-08 | [GILC: Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction](daily_digests/research_digest_2026-06-08.md) | Diffusion · Flow Matching · Genomics · Protein LM · Clinical ML |
