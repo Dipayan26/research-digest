@@ -35,3 +35,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-09 | [The Dark Regulome: Disentangling Predictability from Regulation in Genomic Foundation Models](daily_digests/research_digest_2026-06-09.md) | Genomics · Protein LM · Diffusion · Architecture · General ML · Clinical ML |
 | 2026-06-10 | [Protein Dynamics Beyond Structure Prediction](daily_digests/research_digest_2026-06-10.md) | General ML · Protein LM · Flow Matching · Clinical ML · Genomics · Diffusion |
 | 2026-06-11 | [Flexible Flows for Biological Sequence Design](daily_digests/research_digest_2026-06-11.md) | Flow Matching · General ML · Text Diffusion · Architecture · Clinical ML |
+| 2026-06-12 | [m6A-FORM: A Foundation Model for Decoding N6-methyladenosine Biology](daily_digests/research_digest_2026-06-12.md) | Genomics · Protein LM · Flow Matching · General ML |
