@@ -37,3 +37,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-11 | [Flexible Flows for Biological Sequence Design](daily_digests/research_digest_2026-06-11.md) | Flow Matching · General ML · Text Diffusion · Architecture · Clinical ML |
 | 2026-06-12 | [m6A-FORM: A Foundation Model for Decoding N6-methyladenosine Biology](daily_digests/research_digest_2026-06-12.md) | Genomics · Protein LM · Flow Matching · General ML |
 | 2026-06-13 | [EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis](daily_digests/research_digest_2026-06-13.md) | Genomics · Protein LM · Diffusion · Flow Matching · Architecture · General ML · Clinical ML |
+| 2026-06-14 | [MiniMax Sparse Attention](daily_digests/research_digest_2026-06-14.md) | Architecture · Protein LM · General ML · Clinical ML |
