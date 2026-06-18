@@ -41,3 +41,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-15 | [ProHiFlo: Hierarchical Flow Matching with Functional Guidance for De Novo Protein Generation](daily_digests/research_digest_2026-06-15.md) | Flow Matching · General ML · Architecture · MoE |
 | 2026-06-16 | [Viral Proteins Reveal Geometry of Protein Language Models](daily_digests/research_digest_2026-06-16.md) | Protein LM · Diffusion · Genomics · General ML · Clinical ML |
 | 2026-06-17 | [Testing the Reliability of AI-Generated Protein Structures](daily_digests/research_digest_2026-06-17.md) | Protein LM · Genomics · Architecture · General ML · Clinical ML |
+| 2026-06-18 | [Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](daily_digests/research_digest_2026-06-18.md) | SSM · Architecture · General ML · Flow Matching · Genomics · Clinical ML |
