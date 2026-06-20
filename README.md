@@ -43,3 +43,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-17 | [Testing the Reliability of AI-Generated Protein Structures](daily_digests/research_digest_2026-06-17.md) | Protein LM · Genomics · Architecture · General ML · Clinical ML |
 | 2026-06-18 | [Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](daily_digests/research_digest_2026-06-18.md) | SSM · Architecture · General ML · Flow Matching · Genomics · Clinical ML |
 | 2026-06-19 | [Multiscale Reconstruction of Protein Conformations from Cryo-EM Images](daily_digests/research_digest_2026-06-19.md) | Protein LM · Diffusion · Genomics · MoE · General ML |
+| 2026-06-20 | [Trustworthy Agentic Genomics Through Versioned Skill Libraries](daily_digests/research_digest_2026-06-20.md) | General ML · Diffusion · Genomics · Architecture · Clinical ML |
