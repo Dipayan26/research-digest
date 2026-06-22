@@ -44,3 +44,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-18 | [Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](daily_digests/research_digest_2026-06-18.md) | SSM · Architecture · General ML · Flow Matching · Genomics · Clinical ML |
 | 2026-06-19 | [Multiscale Reconstruction of Protein Conformations from Cryo-EM Images](daily_digests/research_digest_2026-06-19.md) | Protein LM · Diffusion · Genomics · MoE · General ML |
 | 2026-06-21 | [MultiMolecule: A Modular Ecosystem for Biomolecular Sequence-Model Workflows](daily_digests/research_digest_2026-06-21.md) | Architecture |
+| 2026-06-22 | [No qualifying papers found — tooling/connectivity gap](daily_digests/research_digest_2026-06-22.md) | — |
