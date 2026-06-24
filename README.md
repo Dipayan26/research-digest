@@ -45,3 +45,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-19 | [Multiscale Reconstruction of Protein Conformations from Cryo-EM Images](daily_digests/research_digest_2026-06-19.md) | Protein LM · Diffusion · Genomics · MoE · General ML |
 | 2026-06-21 | [MultiMolecule: A Modular Ecosystem for Biomolecular Sequence-Model Workflows](daily_digests/research_digest_2026-06-21.md) | Architecture |
 | 2026-06-22 | [No qualifying papers found — tooling/connectivity gap](daily_digests/research_digest_2026-06-22.md) | — |
+| 2026-06-24 | [A High-Level Programming Language for Generative Biology with Proto](daily_digests/research_digest_2026-06-24.md) | General ML · Protein LM · Clinical ML · Genomics |
