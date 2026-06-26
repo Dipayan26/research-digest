@@ -47,3 +47,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-22 | [No qualifying papers found — tooling/connectivity gap](daily_digests/research_digest_2026-06-22.md) | — |
 | 2026-06-24 | [A High-Level Programming Language for Generative Biology with Proto](daily_digests/research_digest_2026-06-24.md) | General ML · Protein LM · Clinical ML · Genomics |
 | 2026-06-25 | [How Post-Training Shapes Biological Reasoning Models](daily_digests/research_digest_2026-06-25.md) | General ML · Clinical ML · Genomics · Architecture |
+| 2026-06-26 | [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](daily_digests/research_digest_2026-06-26.md) | General ML · Diffusion · Protein LM · Architecture · Genomics · MoE |
