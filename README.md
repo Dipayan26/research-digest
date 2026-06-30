@@ -48,3 +48,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-06-24 | [A High-Level Programming Language for Generative Biology with Proto](daily_digests/research_digest_2026-06-24.md) | General ML · Protein LM · Clinical ML · Genomics |
 | 2026-06-25 | [How Post-Training Shapes Biological Reasoning Models](daily_digests/research_digest_2026-06-25.md) | General ML · Clinical ML · Genomics · Architecture |
 | 2026-06-27 | [Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning](daily_digests/research_digest_2026-06-27.md) | Diffusion · General ML · Protein LM |
+| 2026-06-30 | [Two-Stage Fine-Tuning for Protein Sequence Generation with Targeted Amino-Acid Composition](daily_digests/research_digest_2026-06-30.md) | Protein LM · Genomics · General ML |
